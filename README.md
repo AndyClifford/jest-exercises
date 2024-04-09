@@ -1,1 +1,1 @@
-# jest-exercises
+# Jest Exercises

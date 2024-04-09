@@ -1,0 +1,16 @@
+{
+  "name": "jest-exercises",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "author": "Andy Clifford",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
